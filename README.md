@@ -39,6 +39,6 @@ Collection of HTML, CSS, and JavaScript practice programs and mini projects.
 
 ## Contact
 
-📧 your-email@example.com
+📧 nandhiniu206@gmail.com
 
 Thanks for visiting my profile!
