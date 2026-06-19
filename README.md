@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Nandhini 👋
 
-<!--
-**Nan-dhini-20/Nan-dhini-20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Information Technology
 
-Here are some ideas to get you started:
+💻 Java Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable web applications and continuously improving my software development skills.
+
+## Technical Skills
+
+- Java
+- Spring Boot
+- Hibernate
+- React.js
+- Oracle SQL
+- HTML5
+- CSS3
+- JavaScript
+- REST APIs
+- Git & GitHub
+
+## Featured Projects
+
+### Enterprise Workforce Management Platform
+A workforce management application developed using Spring Boot, React.js, Hibernate, and Oracle SQL.
+
+### Smart Retail Analytics
+A retail analytics application for sales analysis and business insights.
+
+### Web Technologies
+Collection of HTML, CSS, and JavaScript practice programs and mini projects.
+
+## Currently Learning
+
+- Spring Security
+- Microservices
+- Docker
+- CI/CD
+
+## Contact
+
+📧 your-email@example.com
+
+Thanks for visiting my profile!
